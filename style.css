@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400);
+
+html, body {
+  background-color: #777;
+  background-color: #353535;
+  padding-top: 80px;
+  text-align: center;
+}
+
+
+select{
+	height: 28px;
+	border: 1px solid #ABADB3;
+	font-size:14px; 
+  border: 3px solid;
+  font-size: 12px;
+  color: #ff6969;
+  box-shadow: none;
+  border-radius:40px;
+  background: #353535;
+
+}
+
+.center, .title {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.title {
+  font-family: 'Montserrat';
+  color: #ff6969;
+
+}
+
+.data {
+  padding-top: 10px;
+  color: #90ee7e;
+  text-align: center;
+  font-family: 'Unica One', sans-serif;
+  font-size: 70px;
+  font-weight: 100;
+}
+
