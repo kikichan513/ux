@@ -14,7 +14,7 @@ $(window).bind("load",function(){
 					tooltip: {
 						valueDemicals: 2,
 						shared: true,
-						pointFormat: '<span style="color:{point.color}">\u25CF</span> {series.name}: <b>{point.y}%</b><br/>'
+						pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}%</b><br/>'
 					},
 
 					title: {
